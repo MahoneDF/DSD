@@ -1,0 +1,78 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/HW4
+T_opt
+!s110 1719426061
+VIK4nmNM67WQjcNn`^nob71
+Z1 04 2 4 work TB fast 0
+=12-fc34974ce4b6-667c5c0c-3d4-1190
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1719544304
+V^nhgzBQ[JDgJR:Aj3nP@<3
+R1
+=1-fc34974ce4b6-667e29f0-12a-6ec8
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+vSTACK_BASED_ALU
+Z4 !s110 1719426057
+!i10b 1
+!s100 :T9MRH0kVE:efb5ZN<UMJ1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRe^:hDQjeK5oaWIOjCddz1
+Z6 dC:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra
+w1719425915
+8C:\Users\DavoudAbadi\Desktop\MO\Sharif\Term 4\DSD\Extra\STACK_BASED_ALU.v
+FC:\Users\DavoudAbadi\Desktop\MO\Sharif\Term 4\DSD\Extra\STACK_BASED_ALU.v
+!i122 22
+L0 1 44
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1719426057.000000
+!s107 C:\Users\DavoudAbadi\Desktop\MO\Sharif\Term 4\DSD\Extra\STACK_BASED_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\DavoudAbadi\Desktop\MO\Sharif\Term 4\DSD\Extra\STACK_BASED_ALU.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u
+vTB
+R4
+!i10b 1
+!s100 So_az<N<nh`fHEid68^><2
+R5
+I;[LJJEhd3L8J]m@]ikS?d2
+R6
+w1719426039
+8C:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra/TB.v
+FC:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra/TB.v
+!i122 23
+L0 3 81
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra/TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra/TB.v|
+!i113 0
+R10
+R2
+n@t@b

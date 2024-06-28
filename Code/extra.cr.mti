@@ -1,0 +1,16 @@
+{C:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra/STACK_BASED_ALU.v} {2 {vlog -work work -vopt -stats=none {C:\Users\DavoudAbadi\Desktop\MO\Sharif\Term 4\DSD\Extra\STACK_BASED_ALU.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU
+** Warning: C:\Users\DavoudAbadi\Desktop\MO\Sharif\Term 4\DSD\Extra\STACK_BASED_ALU.v(16): (vlog-2182) 'top' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	STACK_BASED_ALU
+
+} {} {}} {C:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra/TB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/DavoudAbadi/Desktop/MO/Sharif/Term 4/DSD/Extra/TB.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}}
